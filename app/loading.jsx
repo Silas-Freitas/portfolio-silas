@@ -1,0 +1,1 @@
+export default function Loading() { return <p className="page" role="status">Carregando conteúdo…</p>; }
