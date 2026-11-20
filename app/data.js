@@ -5,6 +5,12 @@ export const social = {
 };
 
 export const designProjects = [
+ {
+    "title": "Site - Portfólio Pessoal",
+    "alt": "Site portfólio para apresentação do designer e de seus projetos.",
+    "cover": "/capas/capa7.png",
+    "url": "https://www.behance.net/gallery/258758929/Site-Portfolio-Pessoal"
+  },
   {
     "title": "De Amor a Vísceras",
     "alt": "Abecedário acadêmico apresentado em um livro vermelho com ilustrações em amarelo.",
