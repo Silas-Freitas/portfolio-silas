@@ -18,18 +18,12 @@ export const designProjects = [
     "url": "https://www.behance.net/gallery/250718053/De-amor-a-Visceras-Abecedario-(Projeto-Academico)"
   },
   {
-    "title": "Entre os Ponteiros",
-    "alt": "Ilustração conceitual de uma figura suspensa em meio a formas e traços coloridos.",
-    "cover": "/capas/capa2.png",
-    "url": "https://www.behance.net/gallery/251878193/Entre-os-Ponteiros-Ilustracao-Conceitual"
+    "title": "Social Media · Rio Ave",
+    "alt": "Posts da Rio Ave com imagens de imóveis, apresentados em um celular e em publicações.",
+    "cover": "/capas/capa6.png",
+    "url": "https://www.behance.net/gallery/256615961/POSTS-INSTAGRAM-SOCIAL-MEDIA-(RIO-AVE)"
   },
-  {
-    "title": "Corita Kent",
-    "alt": "Folder sobre Corita Kent em rosa e amarelo, apresentado sobre fundo azul.",
-    "cover": "/capas/capa3.png",
-    "url": "https://www.behance.net/gallery/249100341/Corita-Kent-Folder"
-  },
-  {
+   {
     "title": "Social Media · Filmes",
     "alt": "Posts sobre filmes apresentados em um celular e em uma composição de publicações.",
     "cover": "/capas/capa4.png",
@@ -42,11 +36,18 @@ export const designProjects = [
     "url": "https://www.behance.net/gallery/256616645/POSTS-INSTAGRAM-SOCIAL-MEDIA-(TECNOLOGIA)"
   },
   {
-    "title": "Social Media · Rio Ave",
-    "alt": "Posts da Rio Ave com imagens de imóveis, apresentados em um celular e em publicações.",
-    "cover": "/capas/capa6.png",
-    "url": "https://www.behance.net/gallery/256615961/POSTS-INSTAGRAM-SOCIAL-MEDIA-(RIO-AVE)"
+    "title": "Entre os Ponteiros",
+    "alt": "Ilustração conceitual de uma figura suspensa em meio a formas e traços coloridos.",
+    "cover": "/capas/capa2.png",
+    "url": "https://www.behance.net/gallery/251878193/Entre-os-Ponteiros-Ilustracao-Conceitual"
+  },
+  {
+    "title": "Corita Kent",
+    "alt": "Folder sobre Corita Kent em rosa e amarelo, apresentado sobre fundo azul.",
+    "cover": "/capas/capa3.png",
+    "url": "https://www.behance.net/gallery/249100341/Corita-Kent-Folder"
   }
+ 
 ];
 export const academia = [
   { title: 'Sistemas para Internet', organization: 'Universidade Católica de Pernambuco (UNICAP)', period: 'jul. de 2025 – nov. de 2027' },
